@@ -1,7 +1,7 @@
-# Your App Name
+# WeRead KingsFam
 
 ## Introduction
-Welcome to **Your App Name**, the innovative solution for [brief description of what the app does]. Our app is designed to [main benefits and features].
+Welcome to **WeRead KingsFam**, the innovative solution for Bible scripture tailored to your life situation on your home screen. Our app is designed to remind you of what God is speaking to you in your current life situation weather they seem great or not so good. 
 
 ## Features
 - **Feature 1**: Description of feature 1.
@@ -25,3 +25,23 @@ Describe the workflow of the app or how to use it. You can include code snippets
 ```bash
 # Example command
 your-command-here
+
+Testimonials
+Include some customer testimonials that highlight the benefits and effectiveness of your app.
+
+“This app has changed the way I [benefit of the app].” - User A
+
+“I love how easy it is to [another benefit].” - User B
+
+Contact Us
+For support or any questions: Email us at your-email@example.com
+
+Download
+Get the app now on Google Play or App Store.
+
+Follow Us
+Stay connected with us on social media:
+
+Facebook
+Twitter
+Instagram
